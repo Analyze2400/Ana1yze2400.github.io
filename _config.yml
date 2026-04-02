@@ -1,5 +1,5 @@
 # Site settings
-title: Freelancer
+title: Austin Elenzano
 email: aj_1204@outlook.com
 url: https://github.com/Ana1yze2400/Analyze2400.github.io
 description: "A portfolio for a one-of-a-kind developer."
@@ -40,13 +40,13 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: 
+    url: https://x.com/ana1yze_2400?s=21
   - title: facebook
-    url:
+    url: https://facebook.com/austin.elenzano
   - title: stack-overflow
-    url: 
+    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
   - title: bitbucket
-    url: 
+    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
   - title: github
     url: http://github.com/Ana1yze2400
 
