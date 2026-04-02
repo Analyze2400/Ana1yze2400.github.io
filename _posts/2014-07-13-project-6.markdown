@@ -7,5 +7,5 @@ alt: image-alt
 project-date: Sometime in 2016
 client: Java
 category: Game Development
-description: The first coding project I have documented in my github repo. Doesn't showcase much but the start of my CS journey. https://github.com/Analyze2400/tetris-game
+description: The first coding project I have documented in my github repo. Doesn't showcase much but the start of my CS journey. [Link to Project](https://github.com/Analyze2400/tetris-game)
 ---
