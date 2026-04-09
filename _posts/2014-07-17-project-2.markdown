@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2026-04-09
 img: cake.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: Sometime in 2019
+client: Java (Codehs)
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: This is the first from-scratch functioning program I made for personal use. I was taking my first CS specific class in High School and was empowered with the knowledge that coding was accessible to anyone and decided to apply it to one of my own personal problems. (Here's a link to the project.)[https://codehs.com/sandbox/theimposter/superpower-randomizer-branch-1]
 ---
