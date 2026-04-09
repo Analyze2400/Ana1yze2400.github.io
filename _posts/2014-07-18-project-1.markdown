@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
+modal-id: 6
+date: 2026-04-02
+img: submarine.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Sometime in 2016
+client: Java
+category: Game Development
+description: The first coding project I have documented in my github repo. Doesn't showcase much but the start of my CS journey. [Link to Project](https://github.com/Analyze2400/tetris-game)
 ---
