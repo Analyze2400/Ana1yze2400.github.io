@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2026-04-09
 img: safe.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2026
+client: TypeScript
+category: App Development / Web Development / Vibecoding
+description: My most recent project: A small vibecoded web-based app that uses Firebase to keep track of scores for a game challenge I hosted where I live. [Here's a link to the repo.](https://github.com/Analyze2400/Gauntlet-Tracker)
 ---
