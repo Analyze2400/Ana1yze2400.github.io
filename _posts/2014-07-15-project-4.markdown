@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2024-04-09
 img: game.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: March 2026
+client: TypeScript
+category: App Development / Vibecoding
+description: My first vibecoding project made for a prank on some friends. Meant to "immitate" Nexflix's format on the RokuTV app but show whatever video I want disguised as a normal movie / tv-show option. Optimized to be ran on a RaspberryPI alongside a FLIRC USB to handle IR remote signals. [Here's a link the my Github Repo for it.](https://github.com/Analyze2400/Notflix-Video-Library)
 ---
