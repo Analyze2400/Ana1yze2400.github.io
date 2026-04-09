@@ -1,4 +1,6 @@
 <!-- Portfolio Grid Section -->
+{% assign sorted_posts = site.posts | sort: "modal-id" %}
+{% for post in sorted_posts %}
 <section id="portfolio">
   <div class="container portfolio-flex-grid">
     <div class="row">
