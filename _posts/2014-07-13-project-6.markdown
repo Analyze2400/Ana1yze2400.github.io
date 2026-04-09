@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 6
-date: 2026-04-02
-img: submarine.png
+date: Whenever you view it.
+img: cabin.png
 alt: image-alt
-project-date: Sometime in 2016
-client: Java
-category: Game Development
-description: The first coding project I have documented in my github repo. Doesn't showcase much but the start of my CS journey. [Link to Project](https://github.com/Analyze2400/tetris-game)
+project-date: TBD
+client: You
+category: My Job Title
+description: The first project I'll get to do when you hire me. I don't have a link to the repo yet but I will.
 ---
