@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2026-04-09
 img: circus.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2021
+client: Google Sites
+category: Web Development / Game Development
+description: This is the first "Published" game I ever made. Heavily inspired by Pathfinder, Starfinder, and D&D 5e, I spent 9 months coming up with the first version in a google doc. Eventually I couldn't add any new material without the page lagging so I built a website for it. [You can find it here.](https://sites.google.com/view/velocusdestiny/home)
 ---
