@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-date: Whenever you view it.
+date: 2026-04-09
 img: cabin.png
 alt: image-alt
 project-date: TBD
