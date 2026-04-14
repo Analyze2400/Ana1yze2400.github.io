@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2026-04-10
-img: submarine.png
+img: tetris_png.png
 alt: image-alt
 project-date: Sometime in 2016
 client: Java
