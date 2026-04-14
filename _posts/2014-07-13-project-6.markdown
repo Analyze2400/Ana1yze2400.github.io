@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2026-04-09
-img: cabin.png
+img: question_mark.png
 alt: image-alt
 project-date: TBD
 client: You
