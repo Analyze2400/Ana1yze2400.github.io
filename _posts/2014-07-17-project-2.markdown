@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2026-04-09
-img: cake.png
+img: DNA-strands-concept-illustration.png
 alt: image-alt
 project-date: Sometime in 2019
 client: Java (Codehs)
