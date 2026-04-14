@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2026-04-09
-img: game.png
+img: notflix.png
 alt: image-alt
 project-date: March 2026
 client: TypeScript
