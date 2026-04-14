@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2026-04-09
-img: circus.png
+img: velocus_destiny.png
 alt: image-alt
 project-date: April 2021
 client: Google Sites
